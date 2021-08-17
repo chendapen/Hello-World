@@ -1,5 +1,5 @@
 # Hello-World
 My first repository on Github.
 
-I love :apple:.
+I love :apple: :coffee: ,and :pizza:.
 
